@@ -22,3 +22,7 @@ var myVar = "Hello, world!";
 ``` C# code
 string myStr = "Hello, world!";
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
